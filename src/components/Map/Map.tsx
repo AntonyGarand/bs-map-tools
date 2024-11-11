@@ -1,17 +1,13 @@
-import { atom, useAtom, useAtomValue, useSetAtom } from "jotai";
-import "leaflet/dist/leaflet.css";
+import { atom, useAtom, useAtomValue } from "jotai";
 import L, { LatLngBoundsExpression } from "leaflet";
+import "leaflet/dist/leaflet.css";
 import { useEffect, useMemo, useRef } from "react";
 import {
-  Circle,
-  FeatureGroup,
-  ImageOverlay,
   MapContainer,
   Marker,
-  Popup,
   Rectangle,
   TileLayer,
-  useMapEvent,
+  useMapEvent
 } from "react-leaflet";
 
 interface Point {
@@ -32,10 +28,6 @@ function MouseCoordinateDisplay() {
       x,
       y,
     });
-  });
-
-  useMapEvent("zoomend", (event) => {
-    // console.log("Zoom level changed", event);
   });
 
   return (
