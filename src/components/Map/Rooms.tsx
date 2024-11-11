@@ -82,13 +82,13 @@ export default function RoomsContainer() {
     );
   }, [rooms]);
 
-  const currentRoomPolyline = useMemo(
-    () =>
-      currentPoints.length > 0 && (
-        <Polyline positions={currentPoints.map((v) => [v.y, v.x])} />
-      ),
-    [currentPoints]
-  );
+  const currentRoomPolyline = useMemo(() => {
+    const positions: LatLngExpression[] = currentPoints.map((v) => [v.y, v.x]);
+    // Preview where you'll bee adding the point
+    positions.push([tileCoordinates.y, tileCoordinates.x]);
+
+    return currentPoints.length > 0 && <Polyline positions={positions} />;
+  }, [currentPoints, tileCoordinates]);
 
   useMapEvents({
     click() {
