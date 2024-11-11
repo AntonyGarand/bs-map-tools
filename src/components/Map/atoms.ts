@@ -8,3 +8,6 @@ export const tileCoordinatesAtom = atom<Point>((get) => {
   const { x, y } = get(mouseCoordinatesAtom);
   return new Point(Math.floor(x), Math.floor(y));
 });
+
+// HTMl element to contain the room settings through a react portal
+export const roomSettingsElementAtom = atom<HTMLDivElement>();

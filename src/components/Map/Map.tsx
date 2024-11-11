@@ -1,13 +1,11 @@
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-import {
-  MapContainer,
-  Marker,
-  TileLayer
-} from "react-leaflet";
+import { MapContainer, Marker, TileLayer } from "react-leaflet";
 import MouseCoordinateDisplay from "./MouseCoordinateDisplay";
 import TileHoverDisplay from "./TileHoverDisplay";
 import MapVariables from "./Variables";
+import RoomsContainer from "./Rooms";
+import SettingsPane from "./SettingsPane";
 
 // Leaflet has a coordinate system where Y 0 = bottom: Ingame has Y 0 = top, so flipping the Y axis
 const CRSPixel = L.Util.extend(L.CRS.Simple, {
@@ -19,7 +17,10 @@ const worldBounds = L.latLngBounds([0, 0], [300, 300]);
 export default function Map() {
   return (
     <div>
-      <h1>Map</h1>
+      <div>
+        <h1>Map</h1>
+        <SettingsPane />
+      </div>
       <MapContainer
         bounds={worldBounds}
         maxBounds={worldBounds}
@@ -44,12 +45,12 @@ export default function Map() {
         <MapVariables />
         <MouseCoordinateDisplay />
         <TileHoverDisplay />
+        <RoomsContainer />
 
         <Marker position={[0, 0]} />
         <Marker position={[300, 0]} />
         <Marker position={[0, 300]} />
         <Marker position={[300, 300]} />
-
       </MapContainer>
     </div>
   );
