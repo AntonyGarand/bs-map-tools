@@ -26,6 +26,7 @@ interface MarkerIcon {
   width?: number;
   height?: number;
 }
+
 const availableMarkers: MarkerIcon[] = [
   {
     name: "alchemist_obj 2x1",
@@ -49,6 +50,7 @@ const availableMarkers: MarkerIcon[] = [
   { name: "fish_square", image: "fish_square.png" },
   { name: "forager 2x1", image: "forager_1x2.png", width: 2, height: 1 },
   { name: "forager 2x2", image: "forager_2x2.png", width: 2, height: 2 },
+  { name: "forager 1x3", image: "forager_3x1.png", width: 1, height: 3 },
   { name: "forager", image: "forager.png" },
   { name: "guard_foe", image: "guard_foe.png" },
   { name: "guard_foe_aggressive", image: "guard_foe_aggressive.png" },
