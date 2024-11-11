@@ -77,8 +77,8 @@ const availableMarkers: MarkerIcon[] = [
   {
     name: "interactable_search 2x1",
     image: "interactable_search_1x2.png",
-    width: 2,
-    height: 1,
+    width: 1,
+    height: 2,
   },
   { name: "item", image: "item.png" },
   { name: "item_purple", image: "item_purple.png" },
