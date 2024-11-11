@@ -9,5 +9,6 @@ export const tileCoordinatesAtom = atom<Point>((get) => {
   return new Point(Math.floor(x), Math.floor(y));
 });
 
-// HTMl element to contain the room settings through a react portal
+// HTMl element to contain the settings container through a react portal
 export const roomSettingsElementAtom = atom<HTMLDivElement>();
+export const markerSettingsElementAtom = atom<HTMLDivElement>();

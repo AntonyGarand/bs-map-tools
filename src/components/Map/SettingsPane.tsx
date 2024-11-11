@@ -1,8 +1,11 @@
 import { useSetAtom } from "jotai";
 import { useEffect, useRef, useState } from "react";
-import { roomSettingsElementAtom } from "./atoms";
+import { markerSettingsElementAtom, roomSettingsElementAtom } from "./atoms";
 
 export default function SettingsPane() {
+  const [isRoomsVisible, setIsRoomsVisible] = useState(false);
+  const [isMarkersVisible, setIsMarkersVisible] = useState(false);
+
   const roomSettingsRef = useRef<HTMLDivElement>(null);
   const setNewRoomSettings = useSetAtom(roomSettingsElementAtom);
   useEffect(() => {
@@ -10,7 +13,12 @@ export default function SettingsPane() {
     setNewRoomSettings(roomSettingsRef.current);
   }, [roomSettingsRef, setNewRoomSettings]);
 
-  const [isRoomsVisible, setIsRoomsVisible] = useState(false);
+  const markerSettingsRef = useRef<HTMLDivElement>(null);
+  const setNewMarkerSettings = useSetAtom(markerSettingsElementAtom);
+  useEffect(() => {
+    if (markerSettingsRef.current === null) return;
+    setNewMarkerSettings(markerSettingsRef.current);
+  }, [markerSettingsRef, setNewMarkerSettings]);
 
   return (
     <div>
@@ -25,7 +33,19 @@ export default function SettingsPane() {
         <div
           ref={roomSettingsRef}
           style={{ display: isRoomsVisible ? "block" : "none" }}
-        ></div>
+        />
+      </div>
+      <div>
+        <h2
+          style={{ cursor: "pointer" }}
+          onClick={() => setIsMarkersVisible(!isMarkersVisible)}
+        >
+          Markers
+        </h2>
+        <div
+          ref={markerSettingsRef}
+          style={{ display: isMarkersVisible ? "block" : "none" }}
+        />
       </div>
     </div>
   );
