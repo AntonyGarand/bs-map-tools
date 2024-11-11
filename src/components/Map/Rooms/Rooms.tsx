@@ -6,7 +6,7 @@ import { createPortal } from "react-dom";
 import { Marker, Polyline, useMapEvents } from "react-leaflet";
 import { roomSettingsElementAtom, tileCoordinatesAtom } from "../atoms";
 
-import hopeportRooms from "./hopeport.json";
+// import hopeportRooms from "./hopeport.json";
 import hopeForestRooms from "./hopeforest.json";
 
 interface Room {
@@ -15,14 +15,14 @@ interface Room {
 }
 
 const originalRooms: Room[] = [
-  ...hopeportRooms.features.map((rawRoom) => {
-    return {
-      name: rawRoom.properties.name,
-      points: rawRoom.geometry.coordinates[0].map((point) => {
-        return new Point(point[0], 191 - point[1]);
-      }),
-    };
-  }),
+  // ...hopeportRooms.features.map((rawRoom) => {
+  //   return {
+  //     name: rawRoom.properties.name,
+  //     points: rawRoom.geometry.coordinates[0].map((point) => {
+  //       return new Point(point[0], 191 - point[1]);
+  //     }),
+  //   };
+  // }),
   ...hopeForestRooms.map((v) => ({
     name: v.name,
     points: v.points.map((v) => new Point(v.x, v.y)),
