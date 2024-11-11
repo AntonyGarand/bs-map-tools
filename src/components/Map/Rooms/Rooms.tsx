@@ -125,8 +125,6 @@ export default function RoomsContainer() {
           const polygon = L.polygon(pointCoordinates);
           const center = polygon.getBounds().getSouthWest();
           const text = L.divIcon({ html: room.name, className: "" });
-          console.debug(room);
-
           return (
             <>
               <Polyline key={idx} positions={pointCoordinates}>
@@ -145,6 +143,14 @@ export default function RoomsContainer() {
         {roomSettingsContainer &&
           createPortal(
             <>
+              <button
+                onClick={() => {
+                  navigator.clipboard.writeText(JSON.stringify(rooms));
+                  alert("Successfully copied rooms to clipboard");
+                }}
+              >
+                Export rooms
+              </button>
               {!isAddingRoom && (
                 <button onClick={() => setIsAddingRoom(!isAddingRoom)}>
                   Add Room

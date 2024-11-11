@@ -215,6 +215,14 @@ export default function Markers() {
       {markerSettingContainer &&
         createPortal(
           <>
+            <button
+              onClick={() => {
+                navigator.clipboard.writeText(JSON.stringify(allMarkers));
+                alert("Successfully copied markers to clipboard");
+              }}
+            >
+              Export markers
+            </button>
             <div>
               <button onClick={() => setIsAddingMarker(!isAddingMarker)}>
                 Add Marker

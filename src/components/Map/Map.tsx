@@ -35,8 +35,8 @@ export default function Map() {
       </div>
       <MapContainer
         bounds={worldBounds}
-        maxBounds={worldBounds}
-        style={{ height: "100vh", width: "100vw" }}
+        // maxBounds={worldBounds}
+        style={{ height: "90vh", width: "100vw" }}
         crs={CRSPixel}
         center={[65, 30]}
         zoom={0}
