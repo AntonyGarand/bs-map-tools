@@ -6,7 +6,7 @@ import { createPortal } from "react-dom";
 import { Marker, Polyline, useMapEvents } from "react-leaflet";
 import { roomSettingsElementAtom, tileCoordinatesAtom } from "../atoms";
 
-// import hopeportRooms from "./hopeport.json";
+import hopeportRooms from "./hopeport.json";
 import hopeForestRooms from "./hopeforest.json";
 
 interface Room {
@@ -14,20 +14,14 @@ interface Room {
   points: Point[];
 }
 
-const originalRooms: Room[] = [
-  // ...hopeportRooms.features.map((rawRoom) => {
-  //   return {
-  //     name: rawRoom.properties.name,
-  //     points: rawRoom.geometry.coordinates[0].map((point) => {
-  //       return new Point(point[0], 191 - point[1]);
-  //     }),
-  //   };
-  // }),
-  ...hopeForestRooms.map((v) => ({
-    name: v.name,
-    points: v.points.map((v) => new Point(v.x, v.y)),
-  })),
-];
+const hopeport: Room[] = hopeportRooms.map((v) => ({
+  name: v.name,
+  points: v.points.map((v) => new Point(v.x, v.y)),
+}));
+const hopeforst = hopeForestRooms.map((v) => ({
+  name: v.name,
+  points: v.points.map((v) => new Point(v.x, v.y)),
+}));
 
 function RoomList({
   rooms,
@@ -54,6 +48,9 @@ export default function RoomsContainer() {
   // Will contain all the rooms
   const [rooms, setRooms] = useLocalStorage<Room[]>("rooms", []);
   const roomSettingsContainer = useAtomValue(roomSettingsElementAtom);
+
+  const [showHopeport, setShowHopeport] = useState(true);
+  const [showHopeForest, setShowHopeforest] = useState(true);
 
   const [isAddingRoom, setIsAddingRoom] = useState(false);
 
@@ -87,7 +84,7 @@ export default function RoomsContainer() {
             v.x,
           ]);
           const polygon = L.polygon(pointCoordinates);
-          const center = polygon.getBounds().getSouthWest();
+          const center = polygon.getBounds().getCenter();
           const text = L.divIcon({ html: room.name, className: "" });
 
           return (
@@ -117,9 +114,13 @@ export default function RoomsContainer() {
   });
 
   const baseRooms = useMemo(() => {
+    const enabledRooms = [];
+    if (showHopeport) enabledRooms.push(...hopeport);
+    if (showHopeForest) enabledRooms.push(...hopeforst);
+
     return (
       <>
-        {originalRooms.map((room, idx) => {
+        {enabledRooms.map((room, idx) => {
           const pointCoordinates: LatLngExpression[] = room.points.map((v) => [
             v.y,
             v.x,
@@ -137,7 +138,7 @@ export default function RoomsContainer() {
         })}
       </>
     );
-  }, []);
+  }, [showHopeForest, showHopeport]);
 
   return (
     <div>
@@ -145,6 +146,23 @@ export default function RoomsContainer() {
         {roomSettingsContainer &&
           createPortal(
             <>
+              <label>
+                <input
+                  type="checkbox"
+                  checked={showHopeport}
+                  onChange={() => setShowHopeport(!showHopeport)}
+                />
+                Hopeport
+              </label>
+              <label>
+                <input
+                  type="checkbox"
+                  checked={showHopeForest}
+                  onChange={() => setShowHopeforest(!showHopeForest)}
+                />
+                HopeForest
+              </label>
+              <br />
               <button
                 onClick={() => {
                   navigator.clipboard.writeText(JSON.stringify(rooms));
@@ -175,6 +193,8 @@ export default function RoomsContainer() {
           )}
         {currentRoomPolyline}
         {mappedRooms}
+        {showHopeport && baseRooms}
+        {showHopeForest && baseRooms}
         {baseRooms}
       </div>
     </div>
