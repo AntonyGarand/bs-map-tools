@@ -105,14 +105,16 @@ function MarkerList({
   onDelete: (index: number) => void;
 }) {
   return (
-    <ul>
-      {markers.map((marker, index) => (
-        <li key={index}>
-          {marker.name}
-          <button onClick={() => onDelete(index)}>Delete</button>
-        </li>
-      ))}
-    </ul>
+    <div style={{maxHeight: "15vh", overflow: "auto"}}>
+      <ul>
+        {markers.map((marker, index) => (
+          <li key={index}>
+            {marker.name}
+            <button onClick={() => onDelete(index)}>Delete</button>
+          </li>
+        ))}
+      </ul>
+    </div>
   );
 }
 

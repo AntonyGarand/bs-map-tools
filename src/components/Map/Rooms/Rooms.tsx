@@ -37,14 +37,16 @@ function RoomList({
   onDelete: (index: number) => void;
 }) {
   return (
-    <ul>
-      {rooms.map((room, index) => (
-        <li key={index}>
-          {room.name}
-          <button onClick={() => onDelete(index)}>Delete</button>
-        </li>
-      ))}
-    </ul>
+    <div style={{ maxHeight: "15vh", overflow: "auto" }}>
+      <ul>
+        {rooms.map((room, index) => (
+          <li key={index}>
+            {room.name}
+            <button onClick={() => onDelete(index)}>Delete</button>
+          </li>
+        ))}
+      </ul>
+    </div>
   );
 }
 
