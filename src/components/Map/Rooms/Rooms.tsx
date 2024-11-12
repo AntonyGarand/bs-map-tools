@@ -2,9 +2,9 @@ import { useLocalStorage } from "@uidotdev/usehooks";
 import { useAtomValue } from "jotai";
 import L, { LatLngExpression, Point } from "leaflet";
 import { useMemo, useState } from "react";
-import { createPortal, flushSync } from "react-dom";
+import { createPortal } from "react-dom";
 import { renderToString } from "react-dom/server";
-import { Marker, Polygon, Polyline, useMap, useMapEvents } from "react-leaflet";
+import { Marker, Polyline, useMapEvents } from "react-leaflet";
 import { roomSettingsElementAtom, tileCoordinatesAtom } from "../atoms";
 
 import hopeForestRooms from "./hopeforest.json";
@@ -122,6 +122,27 @@ function RoomPopup({ room }: { room: Room }) {
   );
 }
 
+function RoomName({ room }: { room: Room }) {
+  return (
+    <div
+      style={{
+        border: "1px solid gold",
+        borderRadius: "14px",
+        background: "rgba(0, 0, 0, 0.3)",
+        fontFamily: "'Roboto Slab', serif",
+        textTransform: "uppercase",
+        padding: "5px 10px",
+        whiteSpace: "nowrap",
+        textAlign: "center",
+        display: "inline-block",
+        transform: "translateX(-50%) translateY(-100%)",
+      }}
+    >
+      {room.name}
+    </div>
+  );
+}
+
 function RoomList({
   rooms,
   onDelete,
@@ -217,7 +238,7 @@ export default function RoomsContainer() {
           const polygon = L.polygon(pointCoordinates);
           const center = polygon.getBounds().getCenter();
           const text = L.divIcon({
-            html: renderToString(RoomPopup({ room })),
+            html: renderToString(RoomName({ room })),
             className: "",
           });
 
@@ -264,9 +285,10 @@ export default function RoomsContainer() {
             v.x,
           ]);
           const polygon = L.polygon(pointCoordinates);
-          const center = polygon.getBounds().getSouthWest();
+          const y = polygon.getBounds().getSouth();
+          const x = polygon.getBounds().getCenter().lng;
           const text = L.divIcon({
-            html: renderToString(RoomPopup({ room })),
+            html: renderToString(RoomName({ room })),
             className: "",
           });
 
@@ -279,7 +301,7 @@ export default function RoomsContainer() {
                 dashArray={[1, 2]}
               >
                 {visibleRoom?.name === room.name && (
-                  <Marker position={center} icon={text} />
+                  <Marker position={[y, x]} icon={text} />
                 )}
               </Polyline>
             </>
