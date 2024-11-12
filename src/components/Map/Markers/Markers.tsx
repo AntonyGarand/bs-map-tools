@@ -4,7 +4,9 @@ import L, { Point } from "leaflet";
 import { Fragment, useCallback, useMemo, useState } from "react";
 import { createPortal } from "react-dom";
 import { Marker as LeafletMarker, useMap, useMapEvents } from "react-leaflet";
-import { markerSettingsElementAtom, tileCoordinatesAtom } from "./atoms";
+import { markerSettingsElementAtom, tileCoordinatesAtom } from "../atoms";
+
+import hopeportMarkers from "./hopeport.json";
 
 interface MapMarker {
   // Name of the object
@@ -40,7 +42,7 @@ const availableMarkers: MarkerIcon[] = [
   { name: "bank_fisher", image: "bank_fisher.png" },
   { name: "bank_guard", image: "bank_guard.png" },
   { name: "bank_other", image: "bank_other.png" },
-  { name: "bank_stone", image: "bank_stone.png" },
+  { name: "bank_stone 2x1", image: "bank_stone.png", width: 2, height: 1 },
   { name: "board", image: "board.png" },
   { name: "chatty_npc", image: "chatty_npc.png" },
   { name: "chef_obj 1x2", image: "chef_obj_2x1.png", width: 1, height: 2 },
@@ -105,7 +107,7 @@ function MarkerList({
   onDelete: (index: number) => void;
 }) {
   return (
-    <div style={{maxHeight: "15vh", overflow: "auto"}}>
+    <div style={{ maxHeight: "15vh", overflow: "auto" }}>
       <ul>
         {markers.map((marker, index) => (
           <li key={index}>
@@ -127,6 +129,8 @@ export default function Markers() {
   const [newMarkerIcon, setNewMarkerIcon] = useState<MarkerIcon>(
     availableMarkers.find((v) => v.name === "item")!
   );
+
+  const [showHopeportMarkers, setShowHopeportMarkers] = useState(true);
 
   const tileCoordinates = useAtomValue(tileCoordinatesAtom);
   const map = useMap();
@@ -185,9 +189,13 @@ export default function Markers() {
         {allMarkers.map((marker, idx) => (
           <Fragment key={idx}>{convertMarker(marker)}</Fragment>
         ))}
+        {showHopeportMarkers &&
+          hopeportMarkers.map((marker, idx) => (
+            <Fragment key={idx}>{convertMarker(marker)}</Fragment>
+          ))}
       </>
     );
-  }, [allMarkers, convertMarker]);
+  }, [allMarkers, showHopeportMarkers, convertMarker]);
 
   const currentMarker = useMemo(() => {
     if (!isAddingMarker) return;
@@ -217,6 +225,14 @@ export default function Markers() {
       {markerSettingContainer &&
         createPortal(
           <>
+            <label>
+              <input
+                type="checkbox"
+                checked={showHopeportMarkers}
+                onChange={() => setShowHopeportMarkers(!showHopeportMarkers)}
+              />
+              Show Hopeport Markers
+            </label>
             <button
               onClick={() => {
                 navigator.clipboard.writeText(JSON.stringify(allMarkers));

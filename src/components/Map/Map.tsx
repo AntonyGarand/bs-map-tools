@@ -6,7 +6,7 @@ import TileHoverDisplay from "./TileHoverDisplay";
 import MapVariables from "./Variables";
 import RoomsContainer from "./Rooms/Rooms";
 import SettingsPane from "./SettingsPane";
-import Markers from "./Markers";
+import Markers from "./Markers/Markers";
 
 // Leaflet has a coordinate system where Y 0 = bottom: Ingame has Y 0 = top, so flipping the Y axis
 const CRSPixel = L.Util.extend(L.CRS.Simple, {

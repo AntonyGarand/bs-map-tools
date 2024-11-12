@@ -1,0 +1,2869 @@
+[
+  {
+    "name": "Hopeport Portal Stone",
+    "image": "portal_stone.png",
+    "type": "marker",
+    "x": 94,
+    "y": 71
+  },
+  {
+    "name": "Cabbage",
+    "image": "item.png",
+    "type": "marker",
+    "x": 102,
+    "y": 80
+  },
+  {
+    "name": "Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 103,
+    "y": 75
+  },
+  {
+    "name": "Quill and Ink",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 105,
+    "y": 72
+  },
+  {
+    "name": "Paper",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 107,
+    "y": 72
+  },
+  {
+    "name": "Captain Jal Degreene",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 106,
+    "y": 73
+  },
+  {
+    "name": "Anjay Sandorman",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 101,
+    "y": 82
+  },
+  {
+    "name": "Training Dummy",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 105,
+    "y": 84
+  },
+  {
+    "name": "Training Dummy",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 105,
+    "y": 85
+  },
+  {
+    "name": "Training Dummy",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 105,
+    "y": 86
+  },
+  {
+    "name": "Robyn Nockright",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 106,
+    "y": 92
+  },
+  {
+    "name": "Delana",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 116,
+    "y": 80
+  },
+  {
+    "name": "Sultar Malzak",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 117,
+    "y": 84
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 113,
+    "y": 76
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 113,
+    "y": 74
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 113,
+    "y": 72
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 117,
+    "y": 70
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 119,
+    "y": 70
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 121,
+    "y": 70
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 123,
+    "y": 70
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 119,
+    "y": 75
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 121,
+    "y": 75
+  },
+  {
+    "name": "Ingrina Pelegrin",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 118,
+    "y": 75
+  },
+  {
+    "name": "Bed",
+    "image": "interactable_search_1x2.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 122,
+    "y": 71
+  },
+  {
+    "name": "Sparring Guard",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 91,
+    "y": 84
+  },
+  {
+    "name": "Sparring Guard",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 90,
+    "y": 89
+  },
+  {
+    "name": "Sparring Guard",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 88,
+    "y": 90
+  },
+  {
+    "name": "Sparring Guard",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 84,
+    "y": 89
+  },
+  {
+    "name": "Sparring Guard",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 87,
+    "y": 86
+  },
+  {
+    "name": "Sparring Guard",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 83,
+    "y": 84
+  },
+  {
+    "name": "Quartermaster Bank",
+    "image": "bank_guard.png",
+    "type": "marker",
+    "x": 126,
+    "y": 89
+  },
+  {
+    "name": "Kevin's Ingredients",
+    "image": "shop_chef.png",
+    "type": "marker",
+    "x": 113,
+    "y": 100
+  },
+  {
+    "name": "Quartermaster Shop",
+    "image": "shop_other.png",
+    "type": "marker",
+    "x": 123,
+    "y": 92
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 110,
+    "y": 109
+  },
+  {
+    "name": "Oswald Hadley",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 106,
+    "y": 104
+  },
+  {
+    "name": "Fish Symbol",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 107,
+    "y": 104
+  },
+  {
+    "name": "Jar",
+    "image": "item.png",
+    "type": "marker",
+    "x": 90,
+    "y": 98
+  },
+  {
+    "name": "Basket",
+    "image": "item.png",
+    "type": "marker",
+    "x": 88,
+    "y": 103
+  },
+  {
+    "name": "Copper Sink",
+    "image": "interactable_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 90,
+    "y": 111
+  },
+  {
+    "name": "Chopping Table",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 91,
+    "y": 98
+  },
+  {
+    "name": "Chopping Table",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 93,
+    "y": 98
+  },
+  {
+    "name": "Batter Barrel",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 94,
+    "y": 98
+  },
+  {
+    "name": "Deep Fryer",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 91,
+    "y": 102
+  },
+  {
+    "name": "Deep Fryer",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 91,
+    "y": 106
+  },
+  {
+    "name": "Frying Pan",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 92,
+    "y": 102
+  },
+  {
+    "name": "Frying Pan",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 92,
+    "y": 106
+  },
+  {
+    "name": "Boiling Pot",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 92,
+    "y": 103
+  },
+  {
+    "name": "Boiling Pot",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 92,
+    "y": 107
+  },
+  {
+    "name": "Sauce Pan",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 91,
+    "y": 103
+  },
+  {
+    "name": "Sauce Pan",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 91,
+    "y": 107
+  },
+  {
+    "name": "Head Chef",
+    "image": "shop_chef.png",
+    "type": "marker",
+    "x": 89,
+    "y": 109
+  },
+  {
+    "name": "Ice Box",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 95,
+    "y": 107
+  },
+  {
+    "name": "Ice Box",
+    "image": "chef_obj.png",
+    "type": "marker",
+    "x": 95,
+    "y": 109
+  },
+  {
+    "name": "Grill",
+    "image": "chef_obj_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 88,
+    "y": 111
+  },
+  {
+    "name": "Grill",
+    "image": "chef_obj_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 88,
+    "y": 107
+  },
+  {
+    "name": "Oven",
+    "image": "chef_obj_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 88,
+    "y": 109
+  },
+  {
+    "name": "Oven",
+    "image": "chef_obj_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 88,
+    "y": 105
+  },
+  {
+    "name": "Preparation Table",
+    "image": "chef_obj_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 95,
+    "y": 103
+  },
+  {
+    "name": "Preparation Table",
+    "image": "chef_obj_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 95,
+    "y": 100
+  },
+  {
+    "name": "Chef's Bounty Board",
+    "image": "board.png",
+    "type": "marker",
+    "x": 95,
+    "y": 108
+  },
+  {
+    "name": "Chef Recipe Book",
+    "image": "recipe_chef.png",
+    "type": "marker",
+    "x": 95,
+    "y": 104
+  },
+  {
+    "name": "Ingredients Bank",
+    "image": "bank_chef.png",
+    "type": "marker",
+    "x": 95,
+    "y": 101
+  },
+  {
+    "name": "The Apothecary Shop",
+    "image": "shop_alchemist.png",
+    "type": "marker",
+    "x": 130,
+    "y": 107
+  },
+  {
+    "name": "Alchemist Recipe Book",
+    "image": "recipe_alchemist.png",
+    "type": "marker",
+    "x": 129,
+    "y": 105
+  },
+  {
+    "name": "Reagent Preparation Station",
+    "image": "alchemist_obj.png",
+    "type": "marker",
+    "x": 129,
+    "y": 104
+  },
+  {
+    "name": "Passive Potion Station",
+    "image": "alchemist_obj.png",
+    "type": "marker",
+    "x": 126,
+    "y": 105
+  },
+  {
+    "name": "Passive Potion Station",
+    "image": "alchemist_obj.png",
+    "type": "marker",
+    "x": 126,
+    "y": 108
+  },
+  {
+    "name": "Reagent Preparation Station",
+    "image": "alchemist_obj.png",
+    "type": "marker",
+    "x": 133,
+    "y": 103
+  },
+  {
+    "name": "Potent Potion Station",
+    "image": "alchemist_obj.png",
+    "type": "marker",
+    "x": 130,
+    "y": 100
+  },
+  {
+    "name": "Standard Potion Station",
+    "image": "alchemist_obj_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 127,
+    "y": 100
+  },
+  {
+    "name": "Potions Bank",
+    "image": "bank_alchemist.png",
+    "type": "marker",
+    "x": 126,
+    "y": 100
+  },
+  {
+    "name": "Potion Reagents Bank",
+    "image": "bank_alchemist.png",
+    "type": "marker",
+    "x": 125,
+    "y": 100
+  },
+  {
+    "name": "Bottle",
+    "image": "item.png",
+    "type": "marker",
+    "x": 134,
+    "y": 103
+  },
+  {
+    "name": "Potion Reagents",
+    "image": "shop_alchemist.png",
+    "type": "marker",
+    "x": 118,
+    "y": 125
+  },
+  {
+    "name": "Man in a Waistcoat",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 109,
+    "y": 125
+  },
+  {
+    "name": "Kristiana Carefree",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 108,
+    "y": 122
+  },
+  {
+    "name": "Cart",
+    "image": "interactable_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 110,
+    "y": 115
+  },
+  {
+    "name": "Periwinkle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 103,
+    "y": 123
+  },
+  {
+    "name": "Periwinkle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 103,
+    "y": 118
+  },
+  {
+    "name": "Periwinkle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 89,
+    "y": 123
+  },
+  {
+    "name": "Periwinkle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 89,
+    "y": 118
+  },
+  {
+    "name": "Periwinkle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 96,
+    "y": 123
+  },
+  {
+    "name": "Periwinkle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 97,
+    "y": 118
+  },
+  {
+    "name": "Basket",
+    "image": "item.png",
+    "type": "marker",
+    "x": 88,
+    "y": 118
+  },
+  {
+    "name": "Sideboard",
+    "image": "search_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 81,
+    "y": 123
+  },
+  {
+    "name": "Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 79,
+    "y": 112
+  },
+  {
+    "name": "Bedside Table",
+    "image": "search.png",
+    "type": "marker",
+    "x": 80,
+    "y": 110
+  },
+  {
+    "name": "Bedside Table",
+    "image": "search.png",
+    "type": "marker",
+    "x": 83,
+    "y": 110
+  },
+  {
+    "name": "Wardrobe",
+    "image": "search.png",
+    "type": "marker",
+    "x": 84,
+    "y": 110
+  },
+  {
+    "name": "Lord Brannof",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 83,
+    "y": 112
+  },
+  {
+    "name": "Quill and Ink",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 84,
+    "y": 113
+  },
+  {
+    "name": "Paper",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 84,
+    "y": 114
+  },
+  {
+    "name": "Cohen",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 75,
+    "y": 119
+  },
+  {
+    "name": "Obelisk",
+    "image": "obelisk_1x5.png",
+    "width": 5,
+    "height": 1,
+    "type": "marker",
+    "x": 96,
+    "y": 133
+  },
+  {
+    "name": "Ancient Post",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 95,
+    "y": 128
+  },
+  {
+    "name": "Ancient Post",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 102,
+    "y": 128
+  },
+  {
+    "name": "Ancient Post",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 95,
+    "y": 138
+  },
+  {
+    "name": "Ancient Post",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 102,
+    "y": 138
+  },
+  {
+    "name": "Fishing Supplies",
+    "image": "shop_fisher.png",
+    "type": "marker",
+    "x": 127,
+    "y": 116
+  },
+  {
+    "name": "Fishing Bait Bank",
+    "image": "bank_fisher.png",
+    "type": "marker",
+    "x": 125,
+    "y": 119
+  },
+  {
+    "name": "Rod Fishing Guide",
+    "image": "recipe_fisher.png",
+    "type": "marker",
+    "x": 125,
+    "y": 113
+  },
+  {
+    "name": "Wallplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 124,
+    "y": 121
+  },
+  {
+    "name": "Wallplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 125,
+    "y": 121
+  },
+  {
+    "name": "Wallplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 127,
+    "y": 121
+  },
+  {
+    "name": "Hairdresser",
+    "image": "hairdresser.png",
+    "type": "marker",
+    "x": 136,
+    "y": 116
+  },
+  {
+    "name": "Wallplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 142,
+    "y": 120
+  },
+  {
+    "name": "Wallplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 143,
+    "y": 120
+  },
+  {
+    "name": "Wallplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 147,
+    "y": 120
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 145,
+    "y": 120
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 147,
+    "y": 124
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 152,
+    "y": 120
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 151,
+    "y": 126
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 154,
+    "y": 124
+  },
+  {
+    "name": "James Newtap",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 150,
+    "y": 110
+  },
+  {
+    "name": "Cape Shop",
+    "image": "shop_other.png",
+    "type": "marker",
+    "x": 144,
+    "y": 115
+  },
+  {
+    "name": "Capes Bank",
+    "image": "bank_other.png",
+    "type": "marker",
+    "x": 147,
+    "y": 118
+  },
+  {
+    "name": "The Forager's Warehouse",
+    "image": "shop_forager.png",
+    "type": "marker",
+    "x": 155,
+    "y": 115
+  },
+  {
+    "name": "Enchantress",
+    "image": "enchantress.png",
+    "type": "marker",
+    "x": 152,
+    "y": 136
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 168,
+    "y": 121
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 174,
+    "y": 122
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 170,
+    "y": 125
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 164,
+    "y": 125
+  },
+  {
+    "name": "Deathcrow",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 171,
+    "y": 123
+  },
+  {
+    "name": "Naybeth the Philosopher",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 164,
+    "y": 131
+  },
+  {
+    "name": "Copper Sink",
+    "image": "interactable_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 166,
+    "y": 134
+  },
+  {
+    "name": "Bedside Table",
+    "image": "search.png",
+    "type": "marker",
+    "x": 168,
+    "y": 134
+  },
+  {
+    "name": "Commander Hackett",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 179,
+    "y": 123
+  },
+  {
+    "name": "Sword Crate",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 179,
+    "y": 124
+  },
+  {
+    "name": "Goblin Chief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 175,
+    "y": 132
+  },
+  {
+    "name": "Goblin Chief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 176,
+    "y": 138
+  },
+  {
+    "name": "Goblin Chief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 174,
+    "y": 141
+  },
+  {
+    "name": "Goblin Chief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 173,
+    "y": 136
+  },
+  {
+    "name": "Goblin Chief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 178,
+    "y": 133
+  },
+  {
+    "name": "Goblin Chief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 175,
+    "y": 135
+  },
+  {
+    "name": "Goblin Soldier",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 175,
+    "y": 117
+  },
+  {
+    "name": "Goblin Soldier",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 173,
+    "y": 114
+  },
+  {
+    "name": "Goblin Soldier",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 176,
+    "y": 104
+  },
+  {
+    "name": "Goblin Soldier",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 173,
+    "y": 107
+  },
+  {
+    "name": "Goblin Soldier",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 176,
+    "y": 110
+  },
+  {
+    "name": "Goblin Soldier",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 174,
+    "y": 110
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 146,
+    "y": 130
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 147,
+    "y": 132
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 147,
+    "y": 136
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 146,
+    "y": 135
+  },
+  {
+    "name": "Rotten Tree Stump",
+    "image": "forager_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 146,
+    "y": 143
+  },
+  {
+    "name": "Strange Stone",
+    "image": "strange_stone.png",
+    "type": "marker",
+    "x": 157,
+    "y": 144
+  },
+  {
+    "name": "Thug",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 156,
+    "y": 142
+  },
+  {
+    "name": "Thug",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 159,
+    "y": 143
+  },
+  {
+    "name": "Thug",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 161,
+    "y": 147
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 147,
+    "y": 149
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 146,
+    "y": 152
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 146,
+    "y": 153
+  },
+  {
+    "name": "Thief",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 146,
+    "y": 150
+  },
+  {
+    "name": "Scrap Metal",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 156,
+    "y": 151
+  },
+  {
+    "name": "Scrap Metal",
+    "image": "forager_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 151,
+    "y": 159
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 140,
+    "y": 162
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 151,
+    "y": 162
+  },
+  {
+    "name": "Crate",
+    "image": "item.png",
+    "type": "marker",
+    "x": 142,
+    "y": 158
+  },
+  {
+    "name": "Oyster Spot",
+    "image": "fish_square.png",
+    "type": "marker",
+    "x": 145,
+    "y": 163
+  },
+  {
+    "name": "Oyster Spot",
+    "image": "fish_square.png",
+    "type": "marker",
+    "x": 153,
+    "y": 163
+  },
+  {
+    "name": "Sturlet",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 158,
+    "y": 172
+  },
+  {
+    "name": "Sturlet",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 152,
+    "y": 178
+  },
+  {
+    "name": "Sturlet",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 158,
+    "y": 184
+  },
+  {
+    "name": "Crate",
+    "image": "item.png",
+    "type": "marker",
+    "x": 159,
+    "y": 181
+  },
+  {
+    "name": "Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 160,
+    "y": 182
+  },
+  {
+    "name": "Captain Shirker",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 162,
+    "y": 184
+  },
+  {
+    "name": "Dab",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 140,
+    "y": 172
+  },
+  {
+    "name": "Dab",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 147,
+    "y": 177
+  },
+  {
+    "name": "Dab",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 143,
+    "y": 184
+  },
+  {
+    "name": "Herring",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 132,
+    "y": 166
+  },
+  {
+    "name": "Herring",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 125,
+    "y": 166
+  },
+  {
+    "name": "Turner Round",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 120,
+    "y": 162
+  },
+  {
+    "name": "Bream",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 102,
+    "y": 165
+  },
+  {
+    "name": "Bream",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 108,
+    "y": 165
+  },
+  {
+    "name": "Bream",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 114,
+    "y": 165
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 113,
+    "y": 162
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 110,
+    "y": 162
+  },
+  {
+    "name": "Bartrum Stone",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 102,
+    "y": 159
+  },
+  {
+    "name": "The Frequently Fresh Fish Stall",
+    "image": "shop_fisher.png",
+    "type": "marker",
+    "x": 112,
+    "y": 147
+  },
+  {
+    "name": "Bush",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 111,
+    "y": 149
+  },
+  {
+    "name": "Eel",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 108,
+    "y": 135
+  },
+  {
+    "name": "Eel",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 110,
+    "y": 134
+  },
+  {
+    "name": "Eel",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 109,
+    "y": 132
+  },
+  {
+    "name": "Eel",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 117,
+    "y": 134
+  },
+  {
+    "name": "Eel",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 116,
+    "y": 132
+  },
+  {
+    "name": "Eel",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 119,
+    "y": 135
+  },
+  {
+    "name": "Pufferfish",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 124,
+    "y": 141
+  },
+  {
+    "name": "Pufferfish",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 126,
+    "y": 140
+  },
+  {
+    "name": "Pufferfish",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 125,
+    "y": 139
+  },
+  {
+    "name": "Pufferfish",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 125,
+    "y": 147
+  },
+  {
+    "name": "Pufferfish",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 125,
+    "y": 145
+  },
+  {
+    "name": "Pufferfish",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 126,
+    "y": 144
+  },
+  {
+    "name": "Street Louse",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 132,
+    "y": 141
+  },
+  {
+    "name": "Street Louse",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 134,
+    "y": 143
+  },
+  {
+    "name": "Street Louse",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 138,
+    "y": 142
+  },
+  {
+    "name": "Door",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 133,
+    "y": 138
+  },
+  {
+    "name": "Crate",
+    "image": "interactable_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 133,
+    "y": 134
+  },
+  {
+    "name": "Grood the Barkeeper",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 102,
+    "y": 143
+  },
+  {
+    "name": "Nelson",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 108,
+    "y": 148
+  },
+  {
+    "name": "Wellington",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 108,
+    "y": 146
+  },
+  {
+    "name": "Harris Slant",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 107,
+    "y": 145
+  },
+  {
+    "name": "Jar",
+    "image": "item.png",
+    "type": "marker",
+    "x": 108,
+    "y": 149
+  },
+  {
+    "name": "Mackibut",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 109,
+    "y": 171
+  },
+  {
+    "name": "Mackibut",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 103,
+    "y": 178
+  },
+  {
+    "name": "Mackibut",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 108,
+    "y": 184
+  },
+  {
+    "name": "Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 111,
+    "y": 183
+  },
+  {
+    "name": "Captain Woolhead",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 113,
+    "y": 185
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 115,
+    "y": 187
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 113,
+    "y": 181
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 113,
+    "y": 177
+  },
+  {
+    "name": "Lobster",
+    "image": "fish_square.png",
+    "type": "marker",
+    "x": 93,
+    "y": 163
+  },
+  {
+    "name": "Lobster",
+    "image": "fish_square.png",
+    "type": "marker",
+    "x": 84,
+    "y": 163
+  },
+  {
+    "name": "Bucket",
+    "image": "item.png",
+    "type": "marker",
+    "x": 96,
+    "y": 162
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 99,
+    "y": 162
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 84,
+    "y": 162
+  },
+  {
+    "name": "Wraddock",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 91,
+    "y": 170
+  },
+  {
+    "name": "Wraddock",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 91,
+    "y": 175
+  },
+  {
+    "name": "Wraddock",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 94,
+    "y": 184
+  },
+  {
+    "name": "The Seaside Rock Shop",
+    "image": "shop_forager.png",
+    "type": "marker",
+    "x": 64,
+    "y": 153
+  },
+  {
+    "name": "Strange Stone",
+    "image": "strange_stone.png",
+    "type": "marker",
+    "x": 62,
+    "y": 156
+  },
+  {
+    "name": "Swirl Symbol",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 72,
+    "y": 153
+  },
+  {
+    "name": "Scrap Merchant",
+    "image": "shop_forager.png",
+    "type": "marker",
+    "x": 84,
+    "y": 143
+  },
+  {
+    "name": "Hayley Bannof",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 82,
+    "y": 145
+  },
+  {
+    "name": "Inverted Bath",
+    "image": "interactable_2x1.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 81,
+    "y": 142
+  },
+  {
+    "name": "Shell",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 75,
+    "y": 162
+  },
+  {
+    "name": "Shell",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 65,
+    "y": 169
+  },
+  {
+    "name": "Shell",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 60,
+    "y": 166
+  },
+  {
+    "name": "Kelp",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 74,
+    "y": 164
+  },
+  {
+    "name": "Kelp",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 66,
+    "y": 164
+  },
+  {
+    "name": "Kelp",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 67,
+    "y": 162
+  },
+  {
+    "name": "Flounder",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 60,
+    "y": 175
+  },
+  {
+    "name": "Flounder",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 64,
+    "y": 176
+  },
+  {
+    "name": "Flounder",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 65,
+    "y": 174
+  },
+  {
+    "name": "Flounder",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 71,
+    "y": 174
+  },
+  {
+    "name": "Flounder",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 73,
+    "y": 171
+  },
+  {
+    "name": "Flounder",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 75,
+    "y": 169
+  },
+  {
+    "name": "Crab",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 71,
+    "y": 167
+  },
+  {
+    "name": "Crab",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 62,
+    "y": 170
+  },
+  {
+    "name": "Crab",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 63,
+    "y": 163
+  },
+  {
+    "name": "Crab",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 71,
+    "y": 163
+  },
+  {
+    "name": "Shell",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 46,
+    "y": 165
+  },
+  {
+    "name": "Shell",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 51,
+    "y": 172
+  },
+  {
+    "name": "Shell",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 54,
+    "y": 165
+  },
+  {
+    "name": "Rock Pool",
+    "image": "forager_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 49,
+    "y": 164
+  },
+  {
+    "name": "Rock Pool",
+    "image": "forager_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 54,
+    "y": 173
+  },
+  {
+    "name": "Bass",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 53,
+    "y": 178
+  },
+  {
+    "name": "Bass",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 47,
+    "y": 171
+  },
+  {
+    "name": "Bass",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 44,
+    "y": 168
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 36,
+    "y": 169
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 33,
+    "y": 168
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 38,
+    "y": 167
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 36,
+    "y": 165
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 34,
+    "y": 163
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 28,
+    "y": 167
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 27,
+    "y": 164
+  },
+  {
+    "name": "Jellyfish",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 24,
+    "y": 166
+  },
+  {
+    "name": "Starfish",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 39,
+    "y": 162
+  },
+  {
+    "name": "Starfish",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 31,
+    "y": 159
+  },
+  {
+    "name": "Starfish",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 24,
+    "y": 161
+  },
+  {
+    "name": "Kelp",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 26,
+    "y": 159
+  },
+  {
+    "name": "Kelp",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 33,
+    "y": 159
+  },
+  {
+    "name": "Kelp",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 36,
+    "y": 160
+  },
+  {
+    "name": "Cod",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 18,
+    "y": 168
+  },
+  {
+    "name": "Cod",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 8,
+    "y": 165
+  },
+  {
+    "name": "Cod",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 10,
+    "y": 161
+  },
+  {
+    "name": "Starfish",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 19,
+    "y": 164
+  },
+  {
+    "name": "Starfish",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 16,
+    "y": 162
+  },
+  {
+    "name": "Starfish",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 9,
+    "y": 169
+  },
+  {
+    "name": "Wrack",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 11,
+    "y": 167
+  },
+  {
+    "name": "Wrack",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 16,
+    "y": 167
+  },
+  {
+    "name": "Wrack",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 19,
+    "y": 158
+  },
+  {
+    "name": "Ray",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 13,
+    "y": 152
+  },
+  {
+    "name": "Ray",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 11,
+    "y": 149
+  },
+  {
+    "name": "Ray",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 13,
+    "y": 147
+  },
+  {
+    "name": "Ray",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 12,
+    "y": 143
+  },
+  {
+    "name": "Ray",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 10,
+    "y": 141
+  },
+  {
+    "name": "Ray",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 15,
+    "y": 145
+  },
+  {
+    "name": "Limpet",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 20,
+    "y": 150
+  },
+  {
+    "name": "Limpet",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 18,
+    "y": 146
+  },
+  {
+    "name": "Limpet",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 15,
+    "y": 140
+  },
+  {
+    "name": "Gurnard",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 8,
+    "y": 134
+  },
+  {
+    "name": "Gurnard",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 6,
+    "y": 135
+  },
+  {
+    "name": "Gurnard",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 5,
+    "y": 129
+  },
+  {
+    "name": "Gurnard",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 2,
+    "y": 125
+  },
+  {
+    "name": "Gurnard",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 6,
+    "y": 122
+  },
+  {
+    "name": "Gurnard",
+    "image": "fish_circle.png",
+    "type": "marker",
+    "x": 8,
+    "y": 119
+  },
+  {
+    "name": "Pirate",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 15,
+    "y": 121
+  },
+  {
+    "name": "Pirate",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 12,
+    "y": 122
+  },
+  {
+    "name": "Pirate",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 12,
+    "y": 125
+  },
+  {
+    "name": "Pirate",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 15,
+    "y": 124
+  },
+  {
+    "name": "Pirate",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 20,
+    "y": 120
+  },
+  {
+    "name": "Limpet",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 17,
+    "y": 134
+  },
+  {
+    "name": "Limpet",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 10,
+    "y": 128
+  },
+  {
+    "name": "Limpet",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 18,
+    "y": 122
+  },
+  {
+    "name": "Wrack",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 18,
+    "y": 118
+  },
+  {
+    "name": "Wrack",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 11,
+    "y": 122
+  },
+  {
+    "name": "Wrack",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 11,
+    "y": 133
+  },
+  {
+    "name": "Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 14,
+    "y": 128
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "type": "marker",
+    "x": 14,
+    "y": 133
+  },
+  {
+    "name": "Rope",
+    "image": "item_purple.png",
+    "type": "marker",
+    "x": 15,
+    "y": 126
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 25,
+    "y": 148
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 26,
+    "y": 155
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 28,
+    "y": 152
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 38,
+    "y": 154
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 41,
+    "y": 144
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 39,
+    "y": 140
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 22,
+    "y": 141
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 28,
+    "y": 138
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 32,
+    "y": 139
+  },
+  {
+    "name": "Potato",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 22,
+    "y": 145
+  },
+  {
+    "name": "Potato",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 29,
+    "y": 155
+  },
+  {
+    "name": "Potato",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 35,
+    "y": 141
+  },
+  {
+    "name": "Hogberries",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 39,
+    "y": 142
+  },
+  {
+    "name": "Hogberries",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 36,
+    "y": 150
+  },
+  {
+    "name": "Hogberries",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 29,
+    "y": 138
+  },
+  {
+    "name": "Parnell",
+    "image": "shop_forager.png",
+    "type": "marker",
+    "x": 33,
+    "y": 149
+  },
+  {
+    "name": "Giant Ant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 27,
+    "y": 122
+  },
+  {
+    "name": "Giant Ant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 31,
+    "y": 121
+  },
+  {
+    "name": "Giant Ant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 27,
+    "y": 127
+  },
+  {
+    "name": "Giant Ant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 38,
+    "y": 123
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 34,
+    "y": 133
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 28,
+    "y": 129
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 25,
+    "y": 125
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 30,
+    "y": 123
+  },
+  {
+    "name": "Hogberries",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 33,
+    "y": 123
+  },
+  {
+    "name": "Hogberries",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 36,
+    "y": 129
+  },
+  {
+    "name": "Hogberries",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 27,
+    "y": 126
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 23,
+    "y": 99
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 24,
+    "y": 103
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 27,
+    "y": 101
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 24,
+    "y": 95
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 28,
+    "y": 97
+  },
+  {
+    "name": "Falcon Symbol",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 27,
+    "y": 99
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 29,
+    "y": 109
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 37,
+    "y": 95
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 37,
+    "y": 101
+  },
+  {
+    "name": "Monument Piece",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 34,
+    "y": 106
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 25,
+    "y": 91
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 19,
+    "y": 91
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 19,
+    "y": 88
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 16,
+    "y": 91
+  },
+  {
+    "name": "Ghoul",
+    "image": "guard_foe_aggressive.png",
+    "type": "marker",
+    "x": 17,
+    "y": 87
+  },
+  {
+    "name": "Rotting Log",
+    "image": "forager_3x1.png",
+    "width": 1,
+    "height": 3,
+    "type": "marker",
+    "x": 38,
+    "y": 90
+  },
+  {
+    "name": "Punkupine",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 31,
+    "y": 80
+  },
+  {
+    "name": "Punkupine",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 28,
+    "y": 73
+  },
+  {
+    "name": "Punkupine",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 31,
+    "y": 68
+  },
+  {
+    "name": "To Stonemaw Hill",
+    "image": "interactable_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 30,
+    "y": 64
+  },
+  {
+    "name": "Shapes Symbol",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 33,
+    "y": 76
+  },
+  {
+    "name": "Sentry Drogentyna",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 29,
+    "y": 66
+  },
+  {
+    "name": "Sentry Drogentyne",
+    "image": "chatty_npc.png",
+    "type": "marker",
+    "x": 32,
+    "y": 66
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 44,
+    "y": 102
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 45,
+    "y": 106
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 45,
+    "y": 104
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 47,
+    "y": 111
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 48,
+    "y": 105
+  },
+  {
+    "name": "Out of Place Rock",
+    "image": "interactable.png",
+    "type": "marker",
+    "x": 47,
+    "y": 101
+  },
+  {
+    "name": "Large Slab of Rock",
+    "image": "interactable_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 46,
+    "y": 98
+  },
+  {
+    "name": "Water Lily",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 50,
+    "y": 101
+  },
+  {
+    "name": "Water Lily",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 50,
+    "y": 108
+  },
+  {
+    "name": "Water Lily",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 50,
+    "y": 115
+  },
+  {
+    "name": "Nettle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 45,
+    "y": 112
+  },
+  {
+    "name": "Nettle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 45,
+    "y": 114
+  },
+  {
+    "name": "Nettle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 48,
+    "y": 113
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 49,
+    "y": 122
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 48,
+    "y": 126
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 52,
+    "y": 131
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 48,
+    "y": 136
+  },
+  {
+    "name": "Hairbeast",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 46,
+    "y": 123
+  },
+  {
+    "name": "Water Lily",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 50,
+    "y": 121
+  },
+  {
+    "name": "Water Lily",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 50,
+    "y": 128
+  },
+  {
+    "name": "Water Lily",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 50,
+    "y": 127
+  },
+  {
+    "name": "Bellplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 46,
+    "y": 120
+  },
+  {
+    "name": "Bellplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 45,
+    "y": 130
+  },
+  {
+    "name": "Bellplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 49,
+    "y": 132
+  },
+  {
+    "name": "Bellplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 49,
+    "y": 140
+  },
+  {
+    "name": "Bellplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 44,
+    "y": 145
+  },
+  {
+    "name": "Bellplant",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 52,
+    "y": 153
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 43,
+    "y": 141
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 45,
+    "y": 153
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 50,
+    "y": 154
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 54,
+    "y": 150
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 53,
+    "y": 143
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 45,
+    "y": 139
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 48,
+    "y": 138
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 50,
+    "y": 149
+  },
+  {
+    "name": "Carnivorous Plant",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 47,
+    "y": 143
+  },
+  {
+    "name": "Potato",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 48,
+    "y": 144
+  },
+  {
+    "name": "Potato",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 48,
+    "y": 148
+  },
+  {
+    "name": "Potato",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 53,
+    "y": 145
+  },
+  {
+    "name": "Pond Weed",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 64,
+    "y": 133
+  },
+  {
+    "name": "Pond Weed",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 66,
+    "y": 133
+  },
+  {
+    "name": "Pond Weed",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 68,
+    "y": 132
+  },
+  {
+    "name": "Pond Weed",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 69,
+    "y": 134
+  },
+  {
+    "name": "Pond Weed",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 68,
+    "y": 136
+  },
+  {
+    "name": "Pond Weed",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 66,
+    "y": 136
+  },
+  {
+    "name": "Nettle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 66,
+    "y": 142
+  },
+  {
+    "name": "Nettle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 60,
+    "y": 142
+  },
+  {
+    "name": "Nettle",
+    "image": "forager.png",
+    "type": "marker",
+    "x": 59,
+    "y": 131
+  },
+  {
+    "name": "Bugman",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 67,
+    "y": 130
+  },
+  {
+    "name": "Bugman",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 62,
+    "y": 132
+  },
+  {
+    "name": "Bugman",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 61,
+    "y": 137
+  },
+  {
+    "name": "Bugman",
+    "image": "guard_foe.png",
+    "type": "marker",
+    "x": 63,
+    "y": 141
+  },
+  {
+    "name": "Monument Pieces Bank",
+    "image": "bank_stone_1x2.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 35,
+    "y": 143
+  }
+]
