@@ -27,14 +27,14 @@ const hopeforest = hopeForestRooms.map((v) => ({
   polygon: L.polygon(v.points.map((v) => [v.y, v.x] as LatLngExpression)),
 }));
 
-interface ThingTodo {
-  name: string;
-  icon: string;
-  isAfk?: boolean;
-  color: string;
-  levelRequirement?: number;
-  isStation?: boolean;
-}
+// interface ThingTodo {
+//   name: string;
+//   icon: string;
+//   isAfk?: boolean;
+//   color: string;
+//   levelRequirement?: number;
+//   isStation?: boolean;
+// }
 
 // function RoomPopup({ room }: { room: Room }) {
 //   // const map = useMap();

@@ -36,14 +36,14 @@
   },
   {
     "name": "Captain Jal Degreene",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 106,
     "y": 73
   },
   {
     "name": "Anjay Sandorman",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 101,
     "y": 82
@@ -71,21 +71,21 @@
   },
   {
     "name": "Robyn Nockright",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 106,
     "y": 92
   },
   {
     "name": "Delana",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 116,
     "y": 80
   },
   {
     "name": "Sultar Malzak",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 117,
     "y": 84
@@ -155,7 +155,7 @@
   },
   {
     "name": "Ingrina Pelegrin",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 118,
     "y": 75
@@ -220,14 +220,14 @@
   },
   {
     "name": "Kevin's Ingredients",
-    "image": "shop_chef.png",
+    "image": "shop_brown.png",
     "type": "marker",
     "x": 113,
     "y": 100
   },
   {
     "name": "Quartermaster Shop",
-    "image": "shop_other.png",
+    "image": "shop_gray.png",
     "type": "marker",
     "x": 123,
     "y": 92
@@ -241,7 +241,7 @@
   },
   {
     "name": "Oswald Hadley",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 106,
     "y": 104
@@ -269,7 +269,7 @@
   },
   {
     "name": "Copper Sink",
-    "image": "interactable_1x2.png",
+    "image": "interactable_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -355,7 +355,7 @@
   },
   {
     "name": "Head Chef",
-    "image": "shop_chef.png",
+    "image": "shop_brown.png",
     "type": "marker",
     "x": 89,
     "y": 109
@@ -376,7 +376,7 @@
   },
   {
     "name": "Grill",
-    "image": "chef_obj_2x1.png",
+    "image": "chef_obj_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Grill",
-    "image": "chef_obj_2x1.png",
+    "image": "chef_obj_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -394,7 +394,7 @@
   },
   {
     "name": "Oven",
-    "image": "chef_obj_2x1.png",
+    "image": "chef_obj_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -403,7 +403,7 @@
   },
   {
     "name": "Oven",
-    "image": "chef_obj_2x1.png",
+    "image": "chef_obj_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -412,7 +412,7 @@
   },
   {
     "name": "Preparation Table",
-    "image": "chef_obj_2x1.png",
+    "image": "chef_obj_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Preparation Table",
-    "image": "chef_obj_2x1.png",
+    "image": "chef_obj_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -437,7 +437,7 @@
   },
   {
     "name": "Chef Recipe Book",
-    "image": "recipe_chef.png",
+    "image": "recipe_brown.png",
     "type": "marker",
     "x": 95,
     "y": 104
@@ -500,7 +500,7 @@
   },
   {
     "name": "Standard Potion Station",
-    "image": "alchemist_obj_1x2.png",
+    "image": "alchemist_obj_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -537,21 +537,21 @@
   },
   {
     "name": "Man in a Waistcoat",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 109,
     "y": 125
   },
   {
     "name": "Kristiana Carefree",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 108,
     "y": 122
   },
   {
     "name": "Cart",
-    "image": "interactable_1x2.png",
+    "image": "interactable_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -609,7 +609,7 @@
   },
   {
     "name": "Sideboard",
-    "image": "search_1x2.png",
+    "image": "search_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -646,7 +646,7 @@
   },
   {
     "name": "Lord Brannof",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 83,
     "y": 112
@@ -667,14 +667,14 @@
   },
   {
     "name": "Cohen",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 75,
     "y": 119
   },
   {
     "name": "Obelisk",
-    "image": "obelisk_1x5.png",
+    "image": "obelisk_5x1.png",
     "width": 5,
     "height": 1,
     "type": "marker",
@@ -816,14 +816,14 @@
   },
   {
     "name": "James Newtap",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 150,
     "y": 110
   },
   {
     "name": "Cape Shop",
-    "image": "shop_other.png",
+    "image": "shop_gray.png",
     "type": "marker",
     "x": 144,
     "y": 115
@@ -837,7 +837,7 @@
   },
   {
     "name": "The Forager's Warehouse",
-    "image": "shop_forager.png",
+    "image": "shop_yellow.png",
     "type": "marker",
     "x": 155,
     "y": 115
@@ -886,14 +886,14 @@
   },
   {
     "name": "Naybeth the Philosopher",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 164,
     "y": 131
   },
   {
     "name": "Copper Sink",
-    "image": "interactable_1x2.png",
+    "image": "interactable_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -909,7 +909,7 @@
   },
   {
     "name": "Commander Hackett",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 179,
     "y": 123
@@ -1107,7 +1107,7 @@
   },
   {
     "name": "Scrap Metal",
-    "image": "forager_1x2.png",
+    "image": "forager_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -1186,7 +1186,7 @@
   },
   {
     "name": "Captain Shirker",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 162,
     "y": 184
@@ -1228,7 +1228,7 @@
   },
   {
     "name": "Turner Round",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 120,
     "y": 162
@@ -1270,7 +1270,7 @@
   },
   {
     "name": "Bartrum Stone",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 102,
     "y": 159
@@ -1412,28 +1412,28 @@
   },
   {
     "name": "Grood the Barkeeper",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 102,
     "y": 143
   },
   {
     "name": "Nelson",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 108,
     "y": 148
   },
   {
     "name": "Wellington",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 108,
     "y": 146
   },
   {
     "name": "Harris Slant",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 107,
     "y": 145
@@ -1475,7 +1475,7 @@
   },
   {
     "name": "Captain Woolhead",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 113,
     "y": 185
@@ -1559,7 +1559,7 @@
   },
   {
     "name": "The Seaside Rock Shop",
-    "image": "shop_forager.png",
+    "image": "shop_yellow.png",
     "type": "marker",
     "x": 64,
     "y": 153
@@ -1580,21 +1580,21 @@
   },
   {
     "name": "Scrap Merchant",
-    "image": "shop_forager.png",
+    "image": "shop_yellow.png",
     "type": "marker",
     "x": 84,
     "y": 143
   },
   {
     "name": "Hayley Bannof",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 82,
     "y": 145
   },
   {
     "name": "Inverted Bath",
-    "image": "interactable_2x1.png",
+    "image": "interactable_1x2.png",
     "width": 1,
     "height": 2,
     "type": "marker",
@@ -2244,7 +2244,7 @@
   },
   {
     "name": "Parnell",
-    "image": "shop_forager.png",
+    "image": "shop_yellow.png",
     "type": "marker",
     "x": 33,
     "y": 149
@@ -2433,7 +2433,7 @@
   },
   {
     "name": "Rotting Log",
-    "image": "forager_3x1.png",
+    "image": "forager_1x3.png",
     "width": 1,
     "height": 3,
     "type": "marker",
@@ -2463,7 +2463,7 @@
   },
   {
     "name": "To Stonemaw Hill",
-    "image": "interactable_1x2.png",
+    "image": "interactable_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -2479,14 +2479,14 @@
   },
   {
     "name": "Sentry Drogentyna",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 29,
     "y": 66
   },
   {
     "name": "Sentry Drogentyne",
-    "image": "chatty_npc.png",
+    "image": "npc_purple.png",
     "type": "marker",
     "x": 32,
     "y": 66
@@ -2535,7 +2535,7 @@
   },
   {
     "name": "Large Slab of Rock",
-    "image": "interactable_1x2.png",
+    "image": "interactable_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
@@ -2859,7 +2859,7 @@
   },
   {
     "name": "Monument Pieces Bank",
-    "image": "bank_stone_1x2.png",
+    "image": "bank_stone_2x1.png",
     "width": 2,
     "height": 1,
     "type": "marker",
