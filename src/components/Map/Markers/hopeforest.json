@@ -4570,5 +4570,185 @@
     "type": "marker",
     "x": 208,
     "y": 149
+  },
+  {
+    "name": "Hopeforest North Portal Stone",
+    "image": "portal_stone.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 265,
+    "y": 43
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 245,
+    "y": 22
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 255,
+    "y": 20
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 19
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 26
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 34
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 255,
+    "y": 32
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 30
+  },
+  {
+    "name": "Dock Leaf",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 29
+  },
+  {
+    "name": "Bramblelith",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 239,
+    "y": 32
+  },
+  {
+    "name": "Bramblelith",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 29
+  },
+  {
+    "name": "Bramblelith",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 241,
+    "y": 29
+  },
+  {
+    "name": "Bramblelith",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 239,
+    "y": 37
+  },
+  {
+    "name": "Bramblelith",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 242,
+    "y": 39
+  },
+  {
+    "name": "Bramblelith",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 241,
+    "y": 38
+  },
+  {
+    "name": "TODO: Wooded Clifftop interactable",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 244,
+    "y": 29
+  },
+  {
+    "name": "TODO: North Peat Bog interactable",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 247,
+    "y": 22
+  },
+  {
+    "name": "TODO: North Peat Bog interactable",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 255,
+    "y": 23
+  },
+  {
+    "name": "TODO: North Peat Bog interactable",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 251,
+    "y": 19
+  },
+  {
+    "name": "TODO: North Peat Bog interactable",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 19
   }
 ]
