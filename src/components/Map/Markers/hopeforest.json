@@ -1,0 +1,4574 @@
+[
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 185,
+    "y": 122
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 188,
+    "y": 122
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 192,
+    "y": 122
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 185,
+    "y": 126
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 203,
+    "y": 129
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 215,
+    "y": 130
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 204,
+    "y": 119
+  },
+  {
+    "name": "Globeplant",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 216,
+    "y": 125
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 207,
+    "y": 131
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 204,
+    "y": 125
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 214,
+    "y": 129
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 213,
+    "y": 127
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 130
+  },
+  {
+    "name": "Smashed Mushroom",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 217,
+    "y": 118
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 203,
+    "y": 97
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 203,
+    "y": 102
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 201,
+    "y": 90
+  },
+  {
+    "name": "Wildman",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 201,
+    "y": 87
+  },
+  {
+    "name": "Wildman",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 202,
+    "y": 83
+  },
+  {
+    "name": "Wildman",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 210,
+    "y": 86
+  },
+  {
+    "name": "Wildman",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 204,
+    "y": 87
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 195,
+    "y": 88
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 181,
+    "y": 84
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 186,
+    "y": 79
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 193,
+    "y": 78
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 193,
+    "y": 90
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 196,
+    "y": 76
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 184,
+    "y": 78
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 184,
+    "y": 85
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 182,
+    "y": 89
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 178,
+    "y": 87
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 178,
+    "y": 79
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 193,
+    "y": 80
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 167,
+    "y": 79
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 168,
+    "y": 84
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 171,
+    "y": 88
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 172,
+    "y": 79
+  },
+  {
+    "name": "Bear",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 172,
+    "y": 84
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 183,
+    "y": 64
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 188,
+    "y": 69
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 196,
+    "y": 69
+  },
+  {
+    "name": "Goat Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 194,
+    "y": 60
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 193,
+    "y": 69
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 197,
+    "y": 67
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 184,
+    "y": 60
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 193,
+    "y": 58
+  },
+  {
+    "name": "Glowing Bee Hive",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 190,
+    "y": 61
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 79
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 76
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 77
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 222,
+    "y": 73
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 219,
+    "y": 79
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 219,
+    "y": 76
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 224,
+    "y": 77
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 60
+  },
+  {
+    "name": "Yew Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 68
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 71
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 221,
+    "y": 66
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 222,
+    "y": 60
+  },
+  {
+    "name": "Leek",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 222,
+    "y": 63
+  },
+  {
+    "name": "Orange Iris",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 70
+  },
+  {
+    "name": "Orange Iris",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 219,
+    "y": 66
+  },
+  {
+    "name": "Orange Iris",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 63
+  },
+  {
+    "name": "Magic of Cryonae",
+    "image": "interactable_3x3.png",
+    "width": 3,
+    "height": 3,
+    "type": "marker",
+    "x": 216,
+    "y": 50
+  },
+  {
+    "name": "Magic of Arborae",
+    "image": "interactable_3x3.png",
+    "width": 3,
+    "height": 3,
+    "type": "marker",
+    "x": 222,
+    "y": 46
+  },
+  {
+    "name": "Magic of Tempestae",
+    "image": "interactable_3x3.png",
+    "width": 3,
+    "height": 3,
+    "type": "marker",
+    "x": 227,
+    "y": 50
+  },
+  {
+    "name": "Storage Rift Marker",
+    "image": "strange_stone.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 235,
+    "y": 83
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 82
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 258,
+    "y": 76
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 74
+  },
+  {
+    "name": "Moss Monster",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 248,
+    "y": 86
+  },
+  {
+    "name": "Moss Monster",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 246,
+    "y": 79
+  },
+  {
+    "name": "Moss Monster",
+    "image": "scout_foe_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 253,
+    "y": 81
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 79
+  },
+  {
+    "name": "Rotting Log",
+    "image": "gatherer_1x3.png",
+    "width": 1,
+    "height": 3,
+    "type": "marker",
+    "x": 236,
+    "y": 73
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 70
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 246,
+    "y": 65
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 56
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 238,
+    "y": 48
+  },
+  {
+    "name": "Shoggy Dimblehead",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 241,
+    "y": 47
+  },
+  {
+    "name": "Spriggan",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 69
+  },
+  {
+    "name": "Spriggan",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 255,
+    "y": 64
+  },
+  {
+    "name": "Spriggan",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 254,
+    "y": 66
+  },
+  {
+    "name": "Spriggan",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 275,
+    "y": 65
+  },
+  {
+    "name": "Spriggan",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 266,
+    "y": 64
+  },
+  {
+    "name": "Spriggan",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 271,
+    "y": 64
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 258,
+    "y": 67
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 264,
+    "y": 67
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 269,
+    "y": 62
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 259,
+    "y": 63
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 265,
+    "y": 61
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 262,
+    "y": 66
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 269,
+    "y": 66
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 267,
+    "y": 53
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 54
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 56
+  },
+  {
+    "name": "Haleberries",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 266,
+    "y": 57
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 51
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 263,
+    "y": 71
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 263,
+    "y": 76
+  },
+  {
+    "name": "Murphy",
+    "image": "npc_green.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 74
+  },
+  {
+    "name": "Wood Splitting Stump",
+    "image": "woodcutter_3x1.png",
+    "width": 3,
+    "height": 1,
+    "type": "marker",
+    "x": 269,
+    "y": 75
+  },
+  {
+    "name": "Bones Bank",
+    "image": "bank_bone_2x1.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 267,
+    "y": 77
+  },
+  {
+    "name": "Dillie",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 268,
+    "y": 76
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 61
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 72
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 293,
+    "y": 67
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 290,
+    "y": 75
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 285,
+    "y": 63
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 286,
+    "y": 70
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 290,
+    "y": 67
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 282,
+    "y": 72
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 289,
+    "y": 69
+  },
+  {
+    "name": "Wolf",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 307,
+    "y": 61
+  },
+  {
+    "name": "Wolf",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 312,
+    "y": 60
+  },
+  {
+    "name": "Wolf",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 313,
+    "y": 67
+  },
+  {
+    "name": "Wolf",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 314,
+    "y": 64
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 309,
+    "y": 59
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 314,
+    "y": 59
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 305,
+    "y": 62
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 308,
+    "y": 62
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 307,
+    "y": 69
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 303,
+    "y": 64
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 318,
+    "y": 62
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 305,
+    "y": 58
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 307,
+    "y": 72
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 312,
+    "y": 72
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 308,
+    "y": 75
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 301,
+    "y": 75
+  },
+  {
+    "name": "Femur Shard",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 304,
+    "y": 73
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 291,
+    "y": 82
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 295,
+    "y": 85
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 292,
+    "y": 86
+  },
+  {
+    "name": "Shade",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 292,
+    "y": 84
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 300,
+    "y": 84
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 303,
+    "y": 85
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 306,
+    "y": 87
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 314,
+    "y": 87
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 301,
+    "y": 83
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 310,
+    "y": 84
+  },
+  {
+    "name": "Storage Rift Marker",
+    "image": "strange_stone.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 307,
+    "y": 85
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 321,
+    "y": 85
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 327,
+    "y": 82
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 324,
+    "y": 90
+  },
+  {
+    "name": "Bone Spike",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 329,
+    "y": 89
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 323,
+    "y": 80
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 331,
+    "y": 87
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 327,
+    "y": 95
+  },
+  {
+    "name": "Dryad",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 319,
+    "y": 89
+  },
+  {
+    "name": "Giant Crystal",
+    "image": "interactable_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 325,
+    "y": 88
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 309,
+    "y": 96
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 308,
+    "y": 96
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 307,
+    "y": 96
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 306,
+    "y": 96
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 305,
+    "y": 96
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 308,
+    "y": 95
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 307,
+    "y": 95
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 306,
+    "y": 97
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 305,
+    "y": 97
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 310,
+    "y": 108
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 302,
+    "y": 105
+  },
+  {
+    "name": "Soil Mound",
+    "image": "gatherer_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 306,
+    "y": 108
+  },
+  {
+    "name": "Suave Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 86
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 87
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 88
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 282,
+    "y": 89
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 282,
+    "y": 90
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 90
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 89
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 88
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 87
+  },
+  {
+    "name": "Oak Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 265,
+    "y": 85
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 95
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 106
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 250,
+    "y": 103
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 238,
+    "y": 95
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 95
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 99
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 242,
+    "y": 100
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 239,
+    "y": 99
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 240,
+    "y": 95
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 247,
+    "y": 95
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 238,
+    "y": 109
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 241,
+    "y": 110
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 244,
+    "y": 105
+  },
+  {
+    "name": "Orchid",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 238,
+    "y": 104
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 237,
+    "y": 103
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 108
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 245,
+    "y": 108
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 226,
+    "y": 94
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 225,
+    "y": 98
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 231,
+    "y": 94
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 233,
+    "y": 95
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 95
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 229,
+    "y": 97
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 228,
+    "y": 94
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 213,
+    "y": 105
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 218,
+    "y": 102
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 219,
+    "y": 111
+  },
+  {
+    "name": "Tangfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 226,
+    "y": 102
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 215,
+    "y": 98
+  },
+  {
+    "name": "Hickory Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 218,
+    "y": 91
+  },
+  {
+    "name": "Satyr",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 214,
+    "y": 96
+  },
+  {
+    "name": "Satyr",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 217,
+    "y": 93
+  },
+  {
+    "name": "Satyr",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 215,
+    "y": 92
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 240,
+    "y": 119
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 118
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 118
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 225,
+    "y": 119
+  },
+  {
+    "name": "Outlaw",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 228,
+    "y": 117
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 124
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 233,
+    "y": 125
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 225,
+    "y": 126
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 229,
+    "y": 124
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 230,
+    "y": 127
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 130
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 126
+  },
+  {
+    "name": "Goblin",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 129
+  },
+  {
+    "name": "Obelisk",
+    "image": "obelisk_5x1.png",
+    "width": 5,
+    "height": 1,
+    "type": "marker",
+    "x": 231,
+    "y": 138
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 251,
+    "y": 122
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 247,
+    "y": 115
+  },
+  {
+    "name": "Smashed Mushroom",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 249,
+    "y": 115
+  },
+  {
+    "name": "Thicket",
+    "image": "gatherer_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 248,
+    "y": 119
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 261,
+    "y": 121
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 267,
+    "y": 120
+  },
+  {
+    "name": "Chestnut",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 257,
+    "y": 116
+  },
+  {
+    "name": "Chestnut",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 262,
+    "y": 116
+  },
+  {
+    "name": "Chestnut",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 266,
+    "y": 117
+  },
+  {
+    "name": "Thistle",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 266,
+    "y": 113
+  },
+  {
+    "name": "Thistle",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 272,
+    "y": 112
+  },
+  {
+    "name": "Thistle",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 262,
+    "y": 109
+  },
+  {
+    "name": "Thistle",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 261,
+    "y": 106
+  },
+  {
+    "name": "Thistle",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 261,
+    "y": 98
+  },
+  {
+    "name": "Thistle",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 271,
+    "y": 102
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 264,
+    "y": 98
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 271,
+    "y": 98
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 272,
+    "y": 101
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 105
+  },
+  {
+    "name": "Wood Splitting Stump",
+    "image": "woodcutter_1x3.png",
+    "width": 1,
+    "height": 3,
+    "type": "marker",
+    "x": 264,
+    "y": 108
+  },
+  {
+    "name": "Claude",
+    "image": "npc_green.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 271,
+    "y": 108
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 270,
+    "y": 117
+  },
+  {
+    "name": "Chestnut",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 272,
+    "y": 122
+  },
+  {
+    "name": "Chestnut",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 276,
+    "y": 116
+  },
+  {
+    "name": "Chestnut",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 286,
+    "y": 119
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 117
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 271,
+    "y": 120
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 275,
+    "y": 121
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 119
+  },
+  {
+    "name": "Witchwood Tree",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 119
+  },
+  {
+    "name": "Viper",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 94
+  },
+  {
+    "name": "Viper",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 102
+  },
+  {
+    "name": "Viper",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 279,
+    "y": 107
+  },
+  {
+    "name": "Viper",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 284,
+    "y": 115
+  },
+  {
+    "name": "Viper",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 278,
+    "y": 121
+  },
+  {
+    "name": "Viper",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 117
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 283,
+    "y": 97
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 280,
+    "y": 102
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 282,
+    "y": 106
+  },
+  {
+    "name": "Snake Scale",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 281,
+    "y": 109
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 279,
+    "y": 95
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 279,
+    "y": 98
+  },
+  {
+    "name": "Poplar Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 284,
+    "y": 99
+  },
+  {
+    "name": "Tree Cat",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 275,
+    "y": 135
+  },
+  {
+    "name": "Tree Cat",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 274,
+    "y": 142
+  },
+  {
+    "name": "Tree Cat",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 277,
+    "y": 138
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 135
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 142
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 286,
+    "y": 143
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 288,
+    "y": 144
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 289,
+    "y": 146
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 286,
+    "y": 147
+  },
+  {
+    "name": "Door",
+    "image": "interactable_2x1.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 287,
+    "y": 150
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 296,
+    "y": 138
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 295,
+    "y": 136
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 287,
+    "y": 138
+  },
+  {
+    "name": "Rams Horn",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 290,
+    "y": 137
+  },
+  {
+    "name": "Cyclops Guard",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 298,
+    "y": 136
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 278,
+    "y": 149
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 148
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 149
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 274,
+    "y": 147
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 275,
+    "y": 147
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 276,
+    "y": 147
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 274,
+    "y": 150
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 275,
+    "y": 150
+  },
+  {
+    "name": "Brambles",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 276,
+    "y": 150
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 274,
+    "y": 158
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 271,
+    "y": 167
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 270,
+    "y": 174
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 274,
+    "y": 171
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 158
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 270,
+    "y": 166
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 266,
+    "y": 167
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 278,
+    "y": 168
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 278,
+    "y": 173
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 173
+  },
+  {
+    "name": "Sticky Vines",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 166
+  },
+  {
+    "name": "Big Flat Boulder",
+    "image": "interactable_1x2.png",
+    "width": 1,
+    "height": 2,
+    "type": "marker",
+    "x": 272,
+    "y": 165
+  },
+  {
+    "name": "Narrow Ledge",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 277,
+    "y": 162
+  },
+  {
+    "name": "Titan Spider",
+    "image": "interactable_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 278,
+    "y": 163
+  },
+  {
+    "name": "Alannor",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 268,
+    "y": 170
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 270,
+    "y": 159
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 259,
+    "y": 157
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 265,
+    "y": 156
+  },
+  {
+    "name": "Bitterfruit",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 267,
+    "y": 162
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 269,
+    "y": 156
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 156
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 262,
+    "y": 156
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 163
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 268,
+    "y": 163
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 265,
+    "y": 163
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 156
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 162
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 249,
+    "y": 161
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 256,
+    "y": 158
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 246,
+    "y": 159
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 160
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 250,
+    "y": 159
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 157
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 239,
+    "y": 159
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 240,
+    "y": 162
+  },
+  {
+    "name": "Clover",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 169
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 240,
+    "y": 157
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 233,
+    "y": 157
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 232,
+    "y": 171
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 232,
+    "y": 168
+  },
+  {
+    "name": "Wood Splitting Stump",
+    "image": "woodcutter_3x1.png",
+    "width": 3,
+    "height": 1,
+    "type": "marker",
+    "x": 235,
+    "y": 169
+  },
+  {
+    "name": "Hanna",
+    "image": "npc_green.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 237,
+    "y": 166
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 249,
+    "y": 151
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 150
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 146
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 244,
+    "y": 149
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 146
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 251,
+    "y": 151
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 250,
+    "y": 148
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 263,
+    "y": 147
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 258,
+    "y": 149
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 263,
+    "y": 149
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 267,
+    "y": 149
+  },
+  {
+    "name": "Wendigo",
+    "image": "scout_foe_aggressive.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 149
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 269,
+    "y": 146
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 268,
+    "y": 151
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 264,
+    "y": 150
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 147
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 273,
+    "y": 177
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 277,
+    "y": 177
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 278,
+    "y": 186
+  },
+  {
+    "name": "Barricade Guard",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 277,
+    "y": 180
+  },
+  {
+    "name": "Barricade",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 278,
+    "y": 181
+  },
+  {
+    "name": "To Mine of Mantuban",
+    "image": "interactable_1x3.png",
+    "width": 1,
+    "height": 3,
+    "type": "marker",
+    "x": 281,
+    "y": 182
+  },
+  {
+    "name": "Giant Fly",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 262,
+    "y": 187
+  },
+  {
+    "name": "Giant Fly",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 254,
+    "y": 185
+  },
+  {
+    "name": "Giant Fly",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 254,
+    "y": 176
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 263,
+    "y": 177
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 260,
+    "y": 187
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 254,
+    "y": 186
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 257,
+    "y": 186
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 259,
+    "y": 182
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 176
+  },
+  {
+    "name": "Pine Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 247,
+    "y": 183
+  },
+  {
+    "name": "Forensic Equipment",
+    "image": "interactable_3x1.png",
+    "width": 3,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 170
+  },
+  {
+    "name": "Broxoter",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 171
+  },
+  {
+    "name": "Tenaj",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 250,
+    "y": 171
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 251,
+    "y": 189
+  },
+  {
+    "name": "Roasting Tar Rats",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 249,
+    "y": 188
+  },
+  {
+    "name": "Cauldron",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 188
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 213
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 249,
+    "y": 226
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 253,
+    "y": 226
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 255,
+    "y": 221
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 244,
+    "y": 221
+  },
+  {
+    "name": "Storage Rift Marker",
+    "image": "strange_stone.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 243,
+    "y": 223
+  },
+  {
+    "name": "Rainbow Water",
+    "image": "interactable_gray.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 248,
+    "y": 215
+  },
+  {
+    "name": "Rainbow Water",
+    "image": "interactable_gray.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 253,
+    "y": 219
+  },
+  {
+    "name": "Hamish Truefire",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 249,
+    "y": 214
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 246,
+    "y": 193
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 196
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 246,
+    "y": 197
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 199
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 203
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 245,
+    "y": 201
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 246,
+    "y": 206
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 252,
+    "y": 209
+  },
+  {
+    "name": "Catkin",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 235,
+    "y": 176
+  },
+  {
+    "name": "Catkin",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 241,
+    "y": 176
+  },
+  {
+    "name": "Catkin",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 231,
+    "y": 181
+  },
+  {
+    "name": "Crashed Cart",
+    "image": "interactable_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 242,
+    "y": 180
+  },
+  {
+    "name": "Ox",
+    "image": "interactable_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 233,
+    "y": 181
+  },
+  {
+    "name": "Aboredon Nest",
+    "image": "gatherer_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 229,
+    "y": 177
+  },
+  {
+    "name": "Aboredon",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 235,
+    "y": 184
+  },
+  {
+    "name": "Aboredon",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 238,
+    "y": 198
+  },
+  {
+    "name": "Aboredon",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 191
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 233,
+    "y": 191
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 194
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 199
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 239,
+    "y": 188
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 206
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 223
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 232,
+    "y": 221
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 235,
+    "y": 228
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 227,
+    "y": 226
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 231,
+    "y": 226
+  },
+  {
+    "name": "Ferryman",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 233,
+    "y": 228
+  },
+  {
+    "name": "Ferry",
+    "image": "interactable_3x4.png",
+    "width": 3,
+    "height": 4,
+    "type": "marker",
+    "x": 231,
+    "y": 234
+  },
+  {
+    "name": "Ferry",
+    "image": "interactable_3x4.png",
+    "width": 3,
+    "height": 4,
+    "type": "marker",
+    "x": 231,
+    "y": 257
+  },
+  {
+    "name": "Ferryman",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 233,
+    "y": 259
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 226,
+    "y": 260
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 262
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 234,
+    "y": 261
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 228,
+    "y": 259
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 259
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 238,
+    "y": 262
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 239,
+    "y": 265
+  },
+  {
+    "name": "Juniper Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 232,
+    "y": 271
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 229,
+    "y": 267
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 230,
+    "y": 271
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 237,
+    "y": 269
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 270
+  },
+  {
+    "name": "Sage",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 236,
+    "y": 272
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 176
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 176
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 223,
+    "y": 182
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 185
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 227,
+    "y": 185
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 211,
+    "y": 201
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 211,
+    "y": 182
+  },
+  {
+    "name": "Catkin",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 228,
+    "y": 191
+  },
+  {
+    "name": "Catkin",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 211,
+    "y": 192
+  },
+  {
+    "name": "Catkin",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 227,
+    "y": 196
+  },
+  {
+    "name": "Timber Bank",
+    "image": "bank_timber_2x1.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 181
+  },
+  {
+    "name": "Marden",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 180
+  },
+  {
+    "name": "Morauce the Hatchet Man",
+    "image": "shop_green.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 190
+  },
+  {
+    "name": "Gwen's Lumber",
+    "image": "shop_green.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 203,
+    "y": 189
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 202,
+    "y": 202
+  },
+  {
+    "name": "Family Portrait",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 202,
+    "y": 201
+  },
+  {
+    "name": "Map of Hopeforest",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 205,
+    "y": 202
+  },
+  {
+    "name": "Tarana",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 205,
+    "y": 197
+  },
+  {
+    "name": "Alden",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 204,
+    "y": 198
+  },
+  {
+    "name": "Lumber Bank",
+    "image": "bank_lumber.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 208,
+    "y": 213
+  },
+  {
+    "name": "Carpenter Design Book",
+    "image": "recipe_brown.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 213
+  },
+  {
+    "name": "Yulo the Carpenter",
+    "image": "npc_brown.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 216,
+    "y": 214
+  },
+  {
+    "name": "Timber Merchant",
+    "image": "shop_brown.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 214
+  },
+  {
+    "name": "Workbench",
+    "image": "carpenter_obj.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 214,
+    "y": 207
+  },
+  {
+    "name": "Workbench",
+    "image": "carpenter_obj.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 217,
+    "y": 207
+  },
+  {
+    "name": "Workbench",
+    "image": "carpenter_obj.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 217,
+    "y": 210
+  },
+  {
+    "name": "Workbench",
+    "image": "carpenter_obj.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 214,
+    "y": 210
+  },
+  {
+    "name": "Furniture Assembly Station",
+    "image": "carpenter_obj_2x2.png",
+    "width": 2,
+    "height": 2,
+    "type": "marker",
+    "x": 209,
+    "y": 217
+  },
+  {
+    "name": "Circular Saw",
+    "image": "carpenter_obj_5x1.png",
+    "width": 5,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 218
+  },
+  {
+    "name": "Wood Lathe",
+    "image": "carpenter_obj_2x1.png",
+    "width": 2,
+    "height": 1,
+    "type": "marker",
+    "x": 217,
+    "y": 218
+  },
+  {
+    "name": "Apple",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 197,
+    "y": 183
+  },
+  {
+    "name": "Apple",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 200,
+    "y": 182
+  },
+  {
+    "name": "Apple",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 203,
+    "y": 176
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 204,
+    "y": 182
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 191,
+    "y": 176
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 190,
+    "y": 184
+  },
+  {
+    "name": "Vencent the Shopkeeper",
+    "image": "shop_gray.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 197,
+    "y": 167
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 186,
+    "y": 177
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 185,
+    "y": 177
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 184,
+    "y": 177
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 186,
+    "y": 182
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 185,
+    "y": 182
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 184,
+    "y": 182
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 176,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 177,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 178,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 179,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 180,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 181,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 182,
+    "y": 184
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 176,
+    "y": 175
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 177,
+    "y": 175
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 178,
+    "y": 175
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 179,
+    "y": 175
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 180,
+    "y": 175
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 181,
+    "y": 175
+  },
+  {
+    "name": "Dye Tub",
+    "image": "dyes.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 182,
+    "y": 175
+  },
+  {
+    "name": "Iridiana",
+    "image": "npc_gray.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 174,
+    "y": 180
+  },
+  {
+    "name": "Apple",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 189,
+    "y": 188
+  },
+  {
+    "name": "Apple",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 181,
+    "y": 193
+  },
+  {
+    "name": "Apple",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 181,
+    "y": 201
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 196,
+    "y": 188
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 181,
+    "y": 188
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 184,
+    "y": 188
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 181,
+    "y": 206
+  },
+  {
+    "name": "Mr McGrish",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 195,
+    "y": 192
+  },
+  {
+    "name": "Painted Marrow",
+    "image": "interactable.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 188,
+    "y": 198
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 220,
+    "y": 168
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 215,
+    "y": 169
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 216,
+    "y": 162
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 222,
+    "y": 165
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 217,
+    "y": 157
+  },
+  {
+    "name": "Ash Tree",
+    "image": "woodcutter.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 224,
+    "y": 158
+  },
+  {
+    "name": "Storage Rift Marker",
+    "image": "strange_stone.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 229,
+    "y": 147
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 208,
+    "y": 136
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 136
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 143
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 216,
+    "y": 143
+  },
+  {
+    "name": "Wild Boar",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 212,
+    "y": 138
+  },
+  {
+    "name": "Wild Boar",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 219,
+    "y": 148
+  },
+  {
+    "name": "Wild Boar",
+    "image": "scout_foe.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 218,
+    "y": 143
+  },
+  {
+    "name": "Kedwick Shalstanger",
+    "image": "npc_purple.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 210,
+    "y": 144
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 197,
+    "y": 136
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 202,
+    "y": 140
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 196,
+    "y": 141
+  },
+  {
+    "name": "Dandelion",
+    "image": "gatherer.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 195,
+    "y": 146
+  },
+  {
+    "name": "Bedside Table",
+    "image": "search.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 213,
+    "y": 153
+  },
+  {
+    "name": "Old Trunk",
+    "image": "search.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 208,
+    "y": 153
+  },
+  {
+    "name": "Small Chest",
+    "image": "search.png",
+    "width": 1,
+    "height": 1,
+    "type": "marker",
+    "x": 208,
+    "y": 149
+  }
+]
